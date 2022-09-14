@@ -1,0 +1,10 @@
+proyecto 
+dias de la semana
+
+lunes
+martes
+miercoles
+jueves
+viernes
+sabado
+domingo
