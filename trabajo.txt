@@ -16,6 +16,6 @@ invierno
 otoño
 primavera
 
-meses
+MESES
 enero
 febrero
