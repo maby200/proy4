@@ -9,7 +9,7 @@ viernes
 sabado
 domingo
 
-estaciones del año
+ESTACIONES del año
 
 verano
 invierno
